@@ -1,0 +1,4 @@
+[submodule "FastLED"]
+	path = FastLED
+	url = https://github.com/jools-uk/FastLED.git
+	branch = fastled_host
